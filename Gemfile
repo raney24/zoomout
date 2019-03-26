@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby '2.5.0'
+
 gem "jekyll", "3.8.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
